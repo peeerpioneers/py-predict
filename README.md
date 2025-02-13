@@ -2,7 +2,7 @@
 -------------  
 pip install numpy matplotlib pandas scikit-learn tensorflow yfinance  
 
-dularity (Functions): The code is broken down into well-defined functions: load_data, preprocess_data, build_lstm_model, prepare_test_data, and plot_predictions. This makes the code:
+Modularity (Functions): The code is broken down into well-defined functions: load_data, preprocess_data, build_lstm_model, prepare_test_data, and plot_predictions. This makes the code:
 
 More readable: Easier to understand the purpose of each part.
 
